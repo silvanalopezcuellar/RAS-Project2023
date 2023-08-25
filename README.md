@@ -11,3 +11,6 @@ Second gate:
 Third gate:
 ![image](https://github.com/silvanalopezcuellar/RAS-Project2023/assets/68399393/c8298f46-2a5a-40da-ae1a-837ecad59261)
 
+The result is shown as follows:
+[https://youtu.be/MCMnaT5pO2k](https://youtu.be/MCMnaT5pO2k)https://youtu.be/MCMnaT5pO2k
+
