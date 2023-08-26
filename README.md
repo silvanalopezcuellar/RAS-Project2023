@@ -11,16 +11,11 @@ Second gate:
 Third gate:
 ![image](https://github.com/silvanalopezcuellar/RAS-Project2023/assets/68399393/c8298f46-2a5a-40da-ae1a-837ecad59261)
 
-The result is shown as follows:
+The result is shown as follows in the videos:
 
 [![Watch the video](https://img.youtube.com/vi/4nn2jC_5a2k/hqdefault.jpg)](https://www.youtube.com/embed/4nn2jC_5a2k)
 
-[<img src="https://img.youtube.com/vi/4nn2jC_5a2k/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/4nn2jC_5a2k)
 
 [![Watch the video](https://img.youtube.com/vi/MCMnaT5pO2k/hqdefault.jpg)](https://www.youtube.com/embed/MCMnaT5pO2k)
-
-[<img src="https://img.youtube.com/vi/MCMnaT5pO2k/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/MCMnaT5pO2k)
 
 
